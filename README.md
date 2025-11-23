@@ -27,7 +27,8 @@ These dorks are used to find specific file types.
 - `filetype:pdf "confidential"` - Finds PDF files containing the word "confidential."
 - `filetype:xls "password"` - Finds Excel files containing the word "password."
 
-![Filetype Dork](dork_images/filetype_dork.png)
+<img width="763" height="686" alt="image" src="https://github.com/user-attachments/assets/36ff136c-2ae5-47d5-8011-b79bd31b31f8" />
+
 
 ### 2. Inurl Dorks
 
@@ -36,7 +37,8 @@ These dorks are used to find specific text in URLs.
 - `inurl:admin "login"` - Finds URLs with "admin" in them that also contain the word "login."
 - `inurl:gov "secret"` - Finds URLs with ".gov" in them that also contain the word "secret."
 
-![Inurl Dork](dork_images/inurl_dork.png)
+<img width="775" height="726" alt="image" src="https://github.com/user-attachments/assets/1344ce10-d64b-44d4-9c38-abdcd4d09c4e" />
+
 
 ### 3. Intitle Dorks
 
@@ -45,7 +47,8 @@ These dorks are used to find specific text in the title of a web page.
 - `intitle:"index of" "backup"` - Finds pages with "index of" in the title that also contain the word "backup."
 - `intitle:"login page" "admin"` - Finds pages with "login page" in the title that also contain the word "admin."
 
-![Intitle Dork](dork_images/intitle_dork.png)
+<img width="868" height="672" alt="image" src="https://github.com/user-attachments/assets/c4ec63d8-664f-4fe8-a8f8-b407117a631c" />
+
 
 ### 4. Site Dorks
 
@@ -54,7 +57,8 @@ These dorks are used to limit the search to a specific website.
 - `site:example.com "password"` - Finds the word "password" on the website "example.com."
 - `site:gov "secret"` - Finds the word "secret" on government websites.
 
-![Site Dork](dork_images/site_dork.png)
+<img width="817" height="728" alt="image" src="https://github.com/user-attachments/assets/647234fe-bedc-48cd-b83d-5daaad908de1" />
+
 
 ## Usage Instructions
 
